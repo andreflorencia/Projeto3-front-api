@@ -1,0 +1,24 @@
+.company_container{
+    display: flex;
+    flex-direction: column;
+    margin: 4rem 6rem;
+    height: 100vh;
+}
+
+.company_container h1{
+    padding-bottom: 1rem;
+    text-align: center;
+}
+
+.company_container p{
+    padding-bottom: 2rem;
+    text-align: center;
+}
+
+.company_container img{
+    width: 50%;
+    height: 50%;
+    display: block;
+    margin: 0 auto;
+    padding-bottom: 2rem;
+}
